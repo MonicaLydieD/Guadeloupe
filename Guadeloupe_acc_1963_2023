@@ -1,0 +1,602 @@
+[
+  {
+    "Année": 1963,
+    "Accidents": 539,
+    "Tués": 55,
+    "Blessés graves": 303,
+    "Blessés légers": 575,
+    "Total blessés": 878,
+    "Victimes": 933,
+    "Gravités": "10,20"
+  },
+  {
+    "Année": 1964,
+    "Accidents": 495,
+    "Tués": 70,
+    "Blessés graves": 244,
+    "Blessés légers": 532,
+    "Total blessés": 776,
+    "Victimes": 846,
+    "Gravités": "14,14"
+  },
+  {
+    "Année": 1965,
+    "Accidents": 529,
+    "Tués": 82,
+    "Blessés graves": 247,
+    "Blessés légers": 689,
+    "Total blessés": 936,
+    "Victimes": 1018,
+    "Gravités": "15,50"
+  },
+  {
+    "Année": 1966,
+    "Accidents": 571,
+    "Tués": 82,
+    "Blessés graves": 324,
+    "Blessés légers": 595,
+    "Total blessés": 919,
+    "Victimes": 1001,
+    "Gravités": "14,36"
+  },
+  {
+    "Année": 1967,
+    "Accidents": 543,
+    "Tués": 67,
+    "Blessés graves": 388,
+    "Blessés légers": 511,
+    "Total blessés": 899,
+    "Victimes": 966,
+    "Gravités": "12,34"
+  },
+  {
+    "Année": 1968,
+    "Accidents": 560,
+    "Tués": 81,
+    "Blessés graves": 404,
+    "Blessés légers": 562,
+    "Total blessés": 966,
+    "Victimes": 1047,
+    "Gravités": "14,46"
+  },
+  {
+    "Année": 1969,
+    "Accidents": 632,
+    "Tués": 110,
+    "Blessés graves": 474,
+    "Blessés légers": 453,
+    "Total blessés": 927,
+    "Victimes": 1037,
+    "Gravités": "17,41"
+  },
+  {
+    "Année": 1970,
+    "Accidents": 676,
+    "Tués": 108,
+    "Blessés graves": 530,
+    "Blessés légers": 505,
+    "Total blessés": 1035,
+    "Victimes": 1143,
+    "Gravités": "15,98"
+  },
+  {
+    "Année": 1971,
+    "Accidents": 576,
+    "Tués": 109,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 879,
+    "Victimes": 988,
+    "Gravités": "18,92"
+  },
+  {
+    "Année": 1972,
+    "Accidents": 527,
+    "Tués": 99,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 826,
+    "Victimes": 925,
+    "Gravités": "18,79"
+  },
+  {
+    "Année": 1973,
+    "Accidents": 558,
+    "Tués": 109,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 915,
+    "Victimes": 1024,
+    "Gravités": "19,53"
+  },
+  {
+    "Année": 1974,
+    "Accidents": 648,
+    "Tués": 91,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1020,
+    "Victimes": 1111,
+    "Gravités": "14,04"
+  },
+  {
+    "Année": 1975,
+    "Accidents": 722,
+    "Tués": 89,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1151,
+    "Victimes": 1240,
+    "Gravités": "12,33"
+  },
+  {
+    "Année": 1976,
+    "Accidents": 772,
+    "Tués": 90,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1245,
+    "Victimes": 1335,
+    "Gravités": "11,66"
+  },
+  {
+    "Année": 1977,
+    "Accidents": 702,
+    "Tués": 93,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1092,
+    "Victimes": 1185,
+    "Gravités": "13,25"
+  },
+  {
+    "Année": 1978,
+    "Accidents": 737,
+    "Tués": 72,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1164,
+    "Victimes": 1236,
+    "Gravités": "9,77"
+  },
+  {
+    "Année": 1979,
+    "Accidents": 711,
+    "Tués": 87,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1054,
+    "Victimes": 1141,
+    "Gravités": "12,24"
+  },
+  {
+    "Année": 1980,
+    "Accidents": 737,
+    "Tués": 88,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1119,
+    "Victimes": 1207,
+    "Gravités": "11,94"
+  },
+  {
+    "Année": 1981,
+    "Accidents": 768,
+    "Tués": 86,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1160,
+    "Victimes": 1246,
+    "Gravités": "11,20"
+  },
+  {
+    "Année": 1982,
+    "Accidents": 1290,
+    "Tués": 105,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1696,
+    "Victimes": 1801,
+    "Gravités": "8,14"
+  },
+  {
+    "Année": 1983,
+    "Accidents": 1247,
+    "Tués": 130,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1728,
+    "Victimes": 1858,
+    "Gravités": "10,43"
+  },
+  {
+    "Année": 1984,
+    "Accidents": 1084,
+    "Tués": 87,
+    "Blessés graves": "",
+    "Blessés légers": "",
+    "Total blessés": 1548,
+    "Victimes": 1635,
+    "Gravités": "8,03"
+  },
+  {
+    "Année": 1985,
+    "Accidents": 1017,
+    "Tués": 108,
+    "Blessés graves": 602,
+    "Blessés légers": 892,
+    "Total blessés": 2619,
+    "Victimes": 1602,
+    "Gravités": "10,62"
+  },
+  {
+    "Année": 1986,
+    "Accidents": 953,
+    "Tués": 99,
+    "Blessés graves": 578,
+    "Blessés légers": 783,
+    "Total blessés": 2413,
+    "Victimes": 1460,
+    "Gravités": "10,39"
+  },
+  {
+    "Année": 1987,
+    "Accidents": 949,
+    "Tués": 84,
+    "Blessés graves": 541,
+    "Blessés légers": 765,
+    "Total blessés": 2339,
+    "Victimes": 1390,
+    "Gravités": "8,85"
+  },
+  {
+    "Année": 1988,
+    "Accidents": 1026,
+    "Tués": 95,
+    "Blessés graves": 658,
+    "Blessés légers": 858,
+    "Total blessés": 2637,
+    "Victimes": 1611,
+    "Gravités": "9,26"
+  },
+  {
+    "Année": 1989,
+    "Accidents": 1040,
+    "Tués": 102,
+    "Blessés graves": 621,
+    "Blessés légers": 901,
+    "Total blessés": 2664,
+    "Victimes": 1624,
+    "Gravités": "9,81"
+  },
+  {
+    "Année": 1990,
+    "Accidents": 934,
+    "Tués": 100,
+    "Blessés graves": 450,
+    "Blessés légers": 848,
+    "Total blessés": 2332,
+    "Victimes": 1398,
+    "Gravités": "10,71"
+  },
+  {
+    "Année": 1991,
+    "Accidents": 844,
+    "Tués": 98,
+    "Blessés graves": 433,
+    "Blessés légers": 759,
+    "Total blessés": 2134,
+    "Victimes": 1290,
+    "Gravités": "11,61"
+  },
+  {
+    "Année": 1992,
+    "Accidents": 762,
+    "Tués": 97,
+    "Blessés graves": 433,
+    "Blessés légers": 641,
+    "Total blessés": 1933,
+    "Victimes": 1171,
+    "Gravités": "12,73"
+  },
+  {
+    "Année": 1993,
+    "Accidents": 840,
+    "Tués": 88,
+    "Blessés graves": 473,
+    "Blessés légers": 701,
+    "Total blessés": 2102,
+    "Victimes": 1262,
+    "Gravités": "10,48"
+  },
+  {
+    "Année": 1994,
+    "Accidents": 756,
+    "Tués": 83,
+    "Blessés graves": 409,
+    "Blessés légers": 633,
+    "Total blessés": 1881,
+    "Victimes": 1125,
+    "Gravités": "10,98"
+  },
+  {
+    "Année": 1995,
+    "Accidents": 740,
+    "Tués": 74,
+    "Blessés graves": 417,
+    "Blessés légers": 623,
+    "Total blessés": 1854,
+    "Victimes": 1114,
+    "Gravités": "10,00"
+  },
+  {
+    "Année": 1996,
+    "Accidents": 782,
+    "Tués": 83,
+    "Blessés graves": 405,
+    "Blessés légers": 715,
+    "Total blessés": 1985,
+    "Victimes": 1203,
+    "Gravités": "10,61"
+  },
+  {
+    "Année": 1997,
+    "Accidents": 877,
+    "Tués": 94,
+    "Blessés graves": 490,
+    "Blessés légers": 756,
+    "Total blessés": 2217,
+    "Victimes": 1340,
+    "Gravités": "10,72"
+  },
+  {
+    "Année": 1998,
+    "Accidents": 811,
+    "Tués": 104,
+    "Blessés graves": 498,
+    "Blessés légers": 653,
+    "Total blessés": 2066,
+    "Victimes": 1255,
+    "Gravités": "12,82"
+  },
+  {
+    "Année": 1999,
+    "Accidents": 800,
+    "Tués": 91,
+    "Blessés graves": 409,
+    "Blessés légers": 726,
+    "Total blessés": 2026,
+    "Victimes": 1226,
+    "Gravités": "11,38"
+  },
+  {
+    "Année": 2000,
+    "Accidents": 931,
+    "Tués": 116,
+    "Blessés graves": 417,
+    "Blessés légers": 872,
+    "Total blessés": 2336,
+    "Victimes": 1405,
+    "Gravités": "12,46"
+  },
+  {
+    "Année": 2001,
+    "Accidents": 1055,
+    "Tués": 93,
+    "Blessés graves": 382,
+    "Blessés légers": 1087,
+    "Total blessés": 2617,
+    "Victimes": 1562,
+    "Gravités": "8,82"
+  },
+  {
+    "Année": 2002,
+    "Accidents": 1004,
+    "Tués": 85,
+    "Blessés graves": 286,
+    "Blessés légers": 1062,
+    "Total blessés": 2437,
+    "Victimes": 1433,
+    "Gravités": "8,47"
+  },
+  {
+    "Année": 2003,
+    "Accidents": 954,
+    "Tués": 87,
+    "Blessés graves": 251,
+    "Blessés légers": 1075,
+    "Total blessés": 2367,
+    "Victimes": 1413,
+    "Gravités": "9,12"
+  },
+  {
+    "Année": 2004,
+    "Accidents": 840,
+    "Tués": 73,
+    "Blessés graves": 197,
+    "Blessés légers": 952,
+    "Total blessés": 2062,
+    "Victimes": 1222,
+    "Gravités": "8,69"
+  },
+  {
+    "Année": 2005,
+    "Accidents": 855,
+    "Tués": 58,
+    "Blessés graves": 313,
+    "Blessés légers": 851,
+    "Total blessés": 2077,
+    "Victimes": 1222,
+    "Gravités": "6,78"
+  },
+  {
+    "Année": 2006,
+    "Accidents": 767,
+    "Tués": 70,
+    "Blessés graves": 336,
+    "Blessés légers": 667,
+    "Total blessés": 1840,
+    "Victimes": 1073,
+    "Gravités": "9,13"
+  },
+  {
+    "Année": 2007,
+    "Accidents": 836,
+    "Tués": 73,
+    "Blessés graves": 328,
+    "Blessés légers": 772,
+    "Total blessés": 2009,
+    "Victimes": 1173,
+    "Gravités": "8,73"
+  },
+  {
+    "Année": 2008,
+    "Accidents": 755,
+    "Tués": 52,
+    "Blessés graves": 345,
+    "Blessés légers": 742,
+    "Total blessés": 1894,
+    "Victimes": 1139,
+    "Gravités": "6,89"
+  },
+  {
+    "Année": 2009,
+    "Accidents": 498,
+    "Tués": 54,
+    "Blessés graves": 314,
+    "Blessés légers": 392,
+    "Total blessés": 1258,
+    "Victimes": 760,
+    "Gravités": "10,84"
+  },
+  {
+    "Année": 2010,
+    "Accidents": 528,
+    "Tués": 65,
+    "Blessés graves": 280,
+    "Blessés légers": 414,
+    "Total blessés": 1287,
+    "Victimes": 759,
+    "Gravités": "12,31"
+  },
+  {
+    "Année": 2011,
+    "Accidents": 433,
+    "Tués": 53,
+    "Blessés graves": 272,
+    "Blessés légers": 361,
+    "Total blessés": 1119,
+    "Victimes": 686,
+    "Gravités": "12,24"
+  },
+  {
+    "Année": 2012,
+    "Accidents": 412,
+    "Tués": 70,
+    "Blessés graves": 297,
+    "Blessés légers": 253,
+    "Total blessés": 1032,
+    "Victimes": 620,
+    "Gravités": "16,99"
+  },
+  {
+    "Année": 2013,
+    "Accidents": 350,
+    "Tués": 60,
+    "Blessés graves": 264,
+    "Blessés légers": 175,
+    "Total blessés": 849,
+    "Victimes": 499,
+    "Gravités": "17,14"
+  },
+  {
+    "Année": 2014,
+    "Accidents": 341,
+    "Tués": 59,
+    "Blessés graves": 247,
+    "Blessés légers": 224,
+    "Total blessés": 871,
+    "Victimes": 530,
+    "Gravités": "17,30"
+  },
+  {
+    "Année": 2015,
+    "Accidents": 321,
+    "Tués": 40,
+    "Blessés graves": 241,
+    "Blessés légers": 163,
+    "Total blessés": 765,
+    "Victimes": 444,
+    "Gravités": "12,46"
+  },
+  {
+    "Année": 2016,
+    "Accidents": 323,
+    "Tués": 57,
+    "Blessés graves": 246,
+    "Blessés légers": 151,
+    "Total blessés": 777,
+    "Victimes": 454,
+    "Gravités": "17,65"
+  },
+  {
+    "Année": 2017,
+    "Accidents": 357,
+    "Tués": 41,
+    "Blessés graves": 290,
+    "Blessés légers": 219,
+    "Total blessés": 907,
+    "Victimes": 550,
+    "Gravités": "11,48"
+  },
+  {
+    "Année": 2018,
+    "Accidents": 341,
+    "Tués": 33,
+    "Blessés graves": 249,
+    "Blessés légers": 224,
+    "Total blessés": 847,
+    "Victimes": 506,
+    "Gravités": "9,68"
+  },
+  {
+    "Année": 2019,
+    "Accidents": 359,
+    "Tués": 47,
+    "Blessés graves": 209,
+    "Blessés légers": 253,
+    "Total blessés": 868,
+    "Victimes": 509,
+    "Gravités": "13,09"
+  },
+  {
+    "Année": 2020,
+    "Accidents": 375,
+    "Tués": 51,
+    "Blessés graves": 191,
+    "Blessés légers": 283,
+    "Total blessés": 900,
+    "Victimes": 525,
+    "Gravités": "13,60"
+  },
+  {
+    "Année": 2021,
+    "Accidents": 455,
+    "Tués": 65,
+    "Blessés graves": 234,
+    "Blessés légers": 329,
+    "Total blessés": 1083,
+    "Victimes": 628,
+    "Gravités": "14,29"
+  },
+  {
+    "Année": 2022,
+    "Accidents": 451,
+    "Tués": 49,
+    "Blessés graves": 233,
+    "Blessés légers": 383,
+    "Total blessés": 1116,
+    "Victimes": 665,
+    "Gravités": "10,86"
+  }
+]
