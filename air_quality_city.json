@@ -1,0 +1,1431 @@
+{
+    "mean_by_city_year": [
+        {
+            "lib_qual": "Absent",
+            "year": 2023,
+            "code_qual": 0.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "D\u00e9grad\u00e9",
+            "year": 2023,
+            "code_qual": 3.0
+        },
+        {
+            "lib_qual": "Mauvais",
+            "year": 2024,
+            "code_qual": 4.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "code_qual": 2.0
+        }
+    ],
+    "mean_by_city_month": [
+        {
+            "lib_qual": "Absent",
+            "year": 2023,
+            "month": 1,
+            "code_qual": 0.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 10,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 11,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 12,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 1,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 2,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 5,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 7,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "D\u00e9grad\u00e9",
+            "year": 2023,
+            "month": 1,
+            "code_qual": 3.0
+        },
+        {
+            "lib_qual": "Mauvais",
+            "year": 2024,
+            "month": 2,
+            "code_qual": 4.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 10,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 11,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 2,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 8,
+            "code_qual": 2.0
+        }
+    ],
+    "mean_by_city_day": [
+        {
+            "lib_qual": "Absent",
+            "year": 2023,
+            "month": 1,
+            "day": 6,
+            "code_qual": 0.0
+        },
+        {
+            "lib_qual": "Absent",
+            "year": 2023,
+            "month": 1,
+            "day": 27,
+            "code_qual": 0.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 1,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 2,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 3,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 5,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 7,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 11,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 12,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 13,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 14,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 15,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 16,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 17,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 1,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 2,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 3,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 5,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 6,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 7,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 10,
+            "day": 20,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 11,
+            "day": 11,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 12,
+            "day": 29,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 1,
+            "day": 6,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 1,
+            "day": 28,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 2,
+            "day": 12,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 2,
+            "day": 22,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 5,
+            "day": 25,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "day": 14,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "day": 19,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 7,
+            "day": 15,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "day": 13,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "day": 14,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "day": 23,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "day": 24,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "D\u00e9grad\u00e9",
+            "year": 2023,
+            "month": 1,
+            "day": 28,
+            "code_qual": 3.0
+        },
+        {
+            "lib_qual": "Mauvais",
+            "year": 2024,
+            "month": 2,
+            "day": 2,
+            "code_qual": 4.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 5,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 6,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 7,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 8,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 9,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 10,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 11,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 15,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 16,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 17,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 18,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 19,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 20,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 21,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 22,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 23,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 24,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 25,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 26,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 27,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 28,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 29,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 30,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 31,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 1,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 5,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 6,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 8,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 9,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 10,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 11,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 12,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 13,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 14,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 10,
+            "day": 6,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 11,
+            "day": 11,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 2,
+            "day": 12,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 4,
+            "day": 26,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 8,
+            "day": 14,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 8,
+            "day": 23,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 8,
+            "day": 24,
+            "code_qual": 2.0
+        }
+    ],
+    "mean_by_city_hour": [
+        {
+            "lib_qual": "Absent",
+            "year": 2023,
+            "month": 1,
+            "day": 6,
+            "hour": 4,
+            "code_qual": 0.0
+        },
+        {
+            "lib_qual": "Absent",
+            "year": 2023,
+            "month": 1,
+            "day": 27,
+            "hour": 4,
+            "code_qual": 0.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 1,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 2,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 3,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 4,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 5,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 7,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 11,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 12,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 13,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 14,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 15,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 16,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 1,
+            "day": 17,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 1,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 2,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 3,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 4,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 5,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 6,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 2,
+            "day": 7,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 10,
+            "day": 20,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 11,
+            "day": 11,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2023,
+            "month": 12,
+            "day": 29,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 1,
+            "day": 6,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 1,
+            "day": 28,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 2,
+            "day": 12,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 2,
+            "day": 22,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 5,
+            "day": 25,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "day": 14,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "day": 19,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 7,
+            "day": 15,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "day": 13,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "day": 14,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "day": 23,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "Bon",
+            "year": 2024,
+            "month": 8,
+            "day": 24,
+            "hour": 4,
+            "code_qual": 1.0
+        },
+        {
+            "lib_qual": "D\u00e9grad\u00e9",
+            "year": 2023,
+            "month": 1,
+            "day": 28,
+            "hour": 4,
+            "code_qual": 3.0
+        },
+        {
+            "lib_qual": "Mauvais",
+            "year": 2024,
+            "month": 2,
+            "day": 2,
+            "hour": 4,
+            "code_qual": 4.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 4,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 5,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 6,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 7,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 8,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 9,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 10,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 11,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 15,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 16,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 17,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 18,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 19,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 20,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 21,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 22,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 23,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 24,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 25,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 26,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 27,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 28,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 29,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 30,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 1,
+            "day": 31,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 1,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 4,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 5,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 6,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 8,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 9,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 10,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 11,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 12,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 13,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 2,
+            "day": 14,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 10,
+            "day": 6,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2023,
+            "month": 11,
+            "day": 11,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 2,
+            "day": 12,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 4,
+            "day": 26,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 8,
+            "day": 14,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 8,
+            "day": 23,
+            "hour": 4,
+            "code_qual": 2.0
+        },
+        {
+            "lib_qual": "Moyen",
+            "year": 2024,
+            "month": 8,
+            "day": 24,
+            "hour": 4,
+            "code_qual": 2.0
+        }
+    ]
+}
