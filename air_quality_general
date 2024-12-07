@@ -1,0 +1,308 @@
+{
+    "mean_by_month": [
+        {
+            "year": 2023,
+            "month": 1,
+            "code_qual": 1.6774193548387097
+        },
+        {
+            "year": 2023,
+            "month": 2,
+            "code_qual": 1.6267281105990783
+        },
+        {
+            "year": 2023,
+            "month": 10,
+            "code_qual": 1.5
+        },
+        {
+            "year": 2023,
+            "month": 11,
+            "code_qual": 1.125
+        },
+        {
+            "year": 2023,
+            "month": 12,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "month": 1,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "month": 2,
+            "code_qual": 2.488372093023256
+        },
+        {
+            "year": 2024,
+            "month": 4,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2024,
+            "month": 5,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "month": 6,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "month": 7,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "month": 8,
+            "code_qual": 1.5
+        }
+    ],
+    "mean_by_day": [
+        {
+            "year": 2023,
+            "day": 1,
+            "code_qual": 1.0151515151515151
+        },
+        {
+            "year": 2023,
+            "day": 2,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2023,
+            "day": 3,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2023,
+            "day": 4,
+            "code_qual": 1.5454545454545454
+        },
+        {
+            "year": 2023,
+            "day": 5,
+            "code_qual": 1.9696969696969697
+        },
+        {
+            "year": 2023,
+            "day": 6,
+            "code_qual": 1.969387755102041
+        },
+        {
+            "year": 2023,
+            "day": 7,
+            "code_qual": 1.4848484848484849
+        },
+        {
+            "year": 2023,
+            "day": 8,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 9,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 10,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 11,
+            "code_qual": 1.3877551020408163
+        },
+        {
+            "year": 2023,
+            "day": 12,
+            "code_qual": 1.5
+        },
+        {
+            "year": 2023,
+            "day": 13,
+            "code_qual": 1.5
+        },
+        {
+            "year": 2023,
+            "day": 14,
+            "code_qual": 1.131578947368421
+        },
+        {
+            "year": 2023,
+            "day": 15,
+            "code_qual": 1.0303030303030303
+        },
+        {
+            "year": 2023,
+            "day": 16,
+            "code_qual": 1.0606060606060606
+        },
+        {
+            "year": 2023,
+            "day": 17,
+            "code_qual": 1.0606060606060606
+        },
+        {
+            "year": 2023,
+            "day": 18,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 19,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 20,
+            "code_qual": 1.5076923076923077
+        },
+        {
+            "year": 2023,
+            "day": 21,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 22,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 23,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 24,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 25,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 26,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 27,
+            "code_qual": 1.9393939393939394
+        },
+        {
+            "year": 2023,
+            "day": 28,
+            "code_qual": 2.0303030303030303
+        },
+        {
+            "year": 2023,
+            "day": 29,
+            "code_qual": 1.5076923076923077
+        },
+        {
+            "year": 2023,
+            "day": 30,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2023,
+            "day": 31,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2024,
+            "day": 2,
+            "code_qual": 4.0
+        },
+        {
+            "year": 2024,
+            "day": 6,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "day": 12,
+            "code_qual": 1.9696969696969697
+        },
+        {
+            "year": 2024,
+            "day": 13,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "day": 14,
+            "code_qual": 1.3214285714285714
+        },
+        {
+            "year": 2024,
+            "day": 15,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "day": 19,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "day": 20,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "day": 21,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "day": 22,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "day": 23,
+            "code_qual": 1.2
+        },
+        {
+            "year": 2024,
+            "day": 24,
+            "code_qual": 1.9696969696969697
+        },
+        {
+            "year": 2024,
+            "day": 25,
+            "code_qual": 1.0
+        },
+        {
+            "year": 2024,
+            "day": 26,
+            "code_qual": 2.0
+        },
+        {
+            "year": 2024,
+            "day": 28,
+            "code_qual": 1.0
+        }
+    ],
+    "mean_by_hour": [
+        {
+            "year": 2023,
+            "hour": 4,
+            "code_qual": 1.631545741324921
+        },
+        {
+            "year": 2024,
+            "hour": 4,
+            "code_qual": 1.508433734939759
+        }
+    ]
+}
