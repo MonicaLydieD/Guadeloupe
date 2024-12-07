@@ -2,62 +2,62 @@
     "mean_by_month": [
         {
             "year": 2023,
-            "month": 1,
+            "month": "Janvier",
             "code_qual": 1.6774193548387097
         },
         {
             "year": 2023,
-            "month": 2,
+            "month": "Février",
             "code_qual": 1.6267281105990783
         },
         {
             "year": 2023,
-            "month": 10,
+            "month": "Octobre",
             "code_qual": 1.5
         },
         {
             "year": 2023,
-            "month": 11,
+            "month": "Novembre",
             "code_qual": 1.125
         },
         {
             "year": 2023,
-            "month": 12,
+            "month": "Décembre",
             "code_qual": 1.0
         },
         {
             "year": 2024,
-            "month": 1,
+            "month": "Janvier",
             "code_qual": 1.0
         },
         {
             "year": 2024,
-            "month": 2,
+            "month": "Février",
             "code_qual": 2.488372093023256
         },
         {
             "year": 2024,
-            "month": 4,
+            "month": "Avril",
             "code_qual": 2.0
         },
         {
             "year": 2024,
-            "month": 5,
+            "month": "Mai",
             "code_qual": 1.0
         },
         {
             "year": 2024,
-            "month": 6,
+            "month": "Juin",
             "code_qual": 1.0
         },
         {
             "year": 2024,
-            "month": 7,
+            "month": "Juillet",
             "code_qual": 1.0
         },
         {
             "year": 2024,
-            "month": 8,
+            "month": "Août",
             "code_qual": 1.5
         }
     ],
